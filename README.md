@@ -1,10 +1,10 @@
 # Flutter Login UI Kit
 
+<p align="center"><img src="docs/preview.svg" alt="App preview" width="100%"></p>
+
+<sub>Preview: design illustration of the screens, in the light theme. Run the app to see the real thing.</sub>
+
 A free, beautiful and responsive authentication UI kit for Flutter. Login, sign up, forgot password, 6-digit code verification and reset password, with light and dark themes and zero third-party packages. Copy it into your app and plug in your own backend.
-
-![Login screen preview](preview.png)
-
-<sub>Illustrative preview of the login screen (wide-screen layout), drawn to match the kit's design. Run the app to see the real thing.</sub>
 
 ## Screens
 
